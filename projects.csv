@@ -1,0 +1,116 @@
+PI,Code,Name,Division
+Prof. Anurag Agarwal,A-aa406-2,The Sound of Trouble: Intelligent Fault Prediction from Audio Data,A
+Prof. Ozgur Akan,B-oba21-1,Fundamentals of Smell-based Communications,B
+Prof. Ozgur Akan,B-oba21-2,Cooperative THz ISAC for Positioning in LEO Satellite Systems,B
+Prof. Ozgur Akan,B-oba21-3,Through-the-Wall Sensing via Wireless Communications,B
+Prof. Ozgur Akan,B-oba21-4,Spectrum Sensing with Deep Learning for Cognitive Radio,B
+Dr Tom Bashford,C-tb508-1,Follow Up Technology Usability and Readiness Evaluation (FUTURE),C
+Dr Tom Bashford,C-tb508-2,EyeVu,C
+Dr Tore Butlin,C-tb267-1,A copilot for vibration analysis,C
+Dr Tore Butlin,C-tb267-3,Energy harvesting for biomedical devices,C
+Dr George Cantwell,F-gtc31-1,Entropy and random networks,F
+Dr George Cantwell,F-gtc31-2,Collective motion in high dimensions,F
+Prof. Daping Chu,B-dpc31-1,Free space optical computing,B
+Prof. Daping Chu,B-dpc31-2,Tunable Metasurface,B
+Prof. Daping Chu,B-dpc31-3,Augmented Reality (AR) immersive Head Up Display (iHUD),B
+Dr Alice Cicirello,C-ac685-1,Laboratory Benchmark for Physics-Enhanced Machine Learning,C
+Dr Alice Cicirello,C-ac685-2,From text to Graph Neural Networks of dynamical systems,C
+Dr Alice Cicirello,C-ac685-3,Machine Learning approaches to flight trajectory planning under uncertainty and multi-modal data (with BOEING),C
+Prof. Roberto Cipolla,F-rc10001-2,Building a food diary mobile phone app using computer vision,F
+Prof. Roberto Cipolla,F-rc10001-3,Body composition using a mobile phone camera,F
+Prof. Roberto Cipolla,F-rc10001-4,Muscle frailty evaluation using a mobile phone camera,F
+Prof. Tim Coombs,B-tac1000-2,Robot design,B
+Prof. Tim Coombs,B-tac1000-3,Robot Navigation,B
+Dr Paul Cosgrove,A-pmc55-4,Radiative models for lightning,A
+Dr Paul Cosgrove,A-pmc55-5,Improved nuclear data representation in Monte Carlo neutron transport,A
+Dr John Dudley,F-jjd50-1,Individual Reachability Modelling and Adaptation for Accessible Interaction in VR,F
+Dr John Dudley,F-jjd50-2,Delivering 'Just-in-Time' User Support,F
+Dr John Dudley,F-jjd50-3,Facilitating Caret Navigation for Mid-Air Text Editing in VR,F
+Dr John Dudley,F-jjd50-4,Human-Robot Collaboration for Sequential Tasks with Variations,F
+Prof. Andrea Ferrari,B-acf26-1,Graphene-based transceivers for energy efficient AI and data centres,B
+Prof. Andrew Flewitt,B-ajf23-1,Surface Acoustic Wave Ring Resonator,B
+Prof. Andrew Flewitt,B-ajf23-2,Dual-Mode Film Bulk Acoustic Resonator Data Extraction,B
+Prof. Andrew Flewitt,B-ajf23-3,P-channel Oxide Thin Film Transistors for CMOS Logic,B
+Prof. Andrew Flewitt,B-ajf23-4,Modelling of Thin Film Transistor Architectures for CMOS Logic,B
+Prof. Fulvio Forni,F-ff286-1,Automatic Synthesis of Virtual Model Controllers for Robotics,F
+Prof. Fulvio Forni,F-ff286-2,Data-driven passive control.,F
+Prof. Mark Gales,F-mjfg100-1,Expected LLM Hallucination Rate Estimation,F
+Prof. Mark Gales,F-mjfg100-2,Shortcuts and LLM Unlearning,F
+Prof. Andrew Gee,F-ahg13-1,4D reconstruction of cochlea implant insertions,F
+Prof. Andrew Gee,F-ahg13-2,Simulation of middle and inner ear surgery,F
+Dr Stephan Goetz,B-smg84-1,Noninvasive Magnetic Brain Stimulation: Exploiting Novel Design Concepts for Targeting the Mood Regulation Network and the Treatment of Depression and Bipolar Disorder,B
+Dr Stephan Goetz,B-smg84-2,Artificial Intelligence for Designing Noninvasive Brain Stimulation Coils,B
+Dr Stephan Goetz,B-smg84-3,Reduction of Scalp Sensation in Noninvasive Brain Stimulation Through Realistic Neurone Models,B
+Dr Amparo Guemes Gonzalez,B-ag2239-1,Classification of epileptic seizures using vagus nerve and glucose recordings,B
+Dr Amparo Guemes Gonzalez,B-ag2239-2,Interactive Interface Development for Neural Signal Processing in Python.,B
+Dr Amparo Guemes Gonzalez,B-ag2239-3,Investigating the Short-Term Effects of Non-Invasive Vagus Nerve Stimulation,B
+Dr Jim Hambleton,D-jh631-1,Measurement of terrain surface profiles for applications in terrestrial robotics,D
+Dr Jim Hambleton,D-jh631-2,Estimation of operating limits for burrowing organisms in soils and solids,D
+Dr Jim Hambleton,D-jh631-4,Optimisation of tool shapes for autonomous robot-soil interaction,D
+Prof. Guillaume Hennequin,F-gjeh2-1,Inferring the dynamics of an ultradian rhythm generator controlling fertility in mice,F
+Prof. Guillaume Hennequin,F-gjeh2-2,Meta-RL of recurrent neural networks for flexible navigation,F
+Prof. Hannah Joyce,B-hjj28-1,Optoelectronics-grade III-V semiconductor films fabricated by mechanical spalling,B
+Prof. Hannah Joyce,B-hjj28-2,Fabricating GaP terahertz metasurfaces using reactive ion etching,B
+Prof. Hannah Joyce,B-hjj28-3,Oxide-based carrier-selective contacts for III-V solar cells,B
+Dr Demetrios Lefas,A-dl467-3,AI Agent for Aircraft Conceptualisation,A
+Prof. Mate Lengyel,F-ml468-1,Computations in neural circuits,F
+Dr Dongfang Liang,D-dl359-6,Analysing environmental sensor data of Churchill College buildings,D
+Dr Dongfang Liang,D-dl359-7,Developing an AI-Powered Virtual Assistant for Churchill College,D
+Dr Peter Long,C-pjgl2-1,Lone working safety system,C
+Dr Peter Long,C-pjgl2-2,Multi feature workbench,C
+Dr Peter Long,C-pjgl2-3,Enhanced monitoring of the infirm/elderly,C
+Dr Peter Long,C-pjgl2-4,Bio-Engineering,C
+Dr Peter Long,C-pjgl2-5,Low Cost Lab Test Equipment,C
+Prof. Athina Markaki,C-am253-2,Hierarchical vascular networks for tissue engineering,C
+Prof. Athina Markaki,C-am253-3,Automated cell segmentation and tracking of patient-derived GBM cultures on 2D substrates,C
+Prof. Luigi Occhipinti,B-lgo23-2,Design of a Smart Sensors and AI-assisted Wearable Ankle Exoskeleton,B
+Prof. Luigi Occhipinti,B-lgo23-3,Control System Design for an Active Ankle Exoskeleton,B
+Prof. Geoff Parks,A-gtp10-2,Mitigating Catastrophic Forgetting in Grammar Generation and Solution Prediction,A
+Prof. Graham Pullan,A-gp10006-1,Controlling simulation visualisation with your hands,A
+Prof. Graham Pullan,A-gp10006-2,Augmented reality for simulation visualisation,A
+Dr Luca Sapienza,B-ls2052-1,Simulation of electromagnetic wave propagation in nanostructures,B
+Dr Luca Sapienza,B-ls2052-2,Single-photon emission by solid-state nanostructures,B
+Dr Thierry Savin,C-ts573-1,Developing the user interface of a tensile test device for soft biological tissues,C
+Dr Thierry Savin,C-ts573-2,Analysing microvascular blood flow using machine learning computer vision,C
+Prof. Seb Savory,B-sjs1001-1,Probabilistic design for optical networking in the presence of uncertainty,B
+Prof. Seb Savory,B-sjs1001-2,Rare events in optical fibre communication systems,B
+Prof. Seb Savory,B-sjs1001-3,Ultra-high capacity optical access networks,B
+Prof. Seb Savory,B-sjs1001-4,Machine learning for optical networking in the presence of uncertainty,B
+Prof. Seb Savory,B-sjs1001-5,Energy Efficient 200 Gbit/s Transceivers for Optical Access Networks,B
+Dr Jossy Sayir,F-js851-1,Data Compression for Efficient Cloud Storage Updates,F
+Dr Jossy Sayir,F-js851-3,MIMO techniques in 5/6G,F
+Dr Jossy Sayir,F-js851-4,Arithmetic Coding and Related Algorithms,F
+Dr Matteo Seita,C-ms2932-3,High-throughput characterization of paleostress in geological samples,C
+Dr Matteo Seita,C-ms2932-4,Advanced optical characterization of aerospace alloys,C
+Dr Matteo Seita,C-ms2932-5,Tracking medieval manuscripts by reverse engineering the paper-making process,C
+Dr Matteo Seita,C-ms2932-6,Understanding Plastic Deformation using Directional Reflectance Microscopy (DRM),C
+Dr Matteo Seita,C-ms2932-7,Surface analysis of composite materials using directional reflectance microscopy (DRM),C
+Dr Sakthy Selvakumaran,D-ss683-2,Developing a Low-Cost Structural Movement Monitoring System for Urban Search and Rescue (USAR),D
+Dr Sakthy Selvakumaran,D-ss683-3,Earth Observation Data Analysis for Post Disaster Scenarios: Myanmar & Thailand 2025,D
+Dr Sam Stanier,D-sas229-1,Laboratory data acquisition system development,D
+Dr Sam Stanier,D-sas229-3,A 21st century laboratory testing device for geotechnical engineering,D
+Dr Matthew Tang,B-wct26-1,Energy-efficient RISC-V ISA extensions for Trigonometric Functions,B
+Dr Matthew Tang,B-wct26-2,Spiking Neural Network (SNN) Implementation on FPGA,B
+Dr Matthew Tang,B-wct26-3,Decoding Arithmetic Functions of Gate-level Digital Circuit Designs,B
+Dr Matthew Tang,B-wct26-4,Optimising Digital Designs with Multibit Flip-Flops,B
+Dr Iman Tavakkolnia,B-it360-1,Statistical modelling of VR headset movement for high-speed optical wireless communication channels,B
+Dr Iman Tavakkolnia,B-it360-2,Laser-based wireless charging of UAVs [Supported by Boeing],B
+Dr Iman Tavakkolnia,B-it360-3,Optical wireless communication and station-keeping for UAVs [Supported by Boeing],B
+Dr Iman Tavakkolnia,B-it360-4,Optical communication and sensing for space applications [Supported by Boeing],B
+Dr Iman Tavakkolnia,B-it360-5,Optical satellite communication enabled by Orbital Angular Momentum [Supported by Boeing],B
+Dr Marcus Tomalin,F-mt126-1,Detecting LLM-Generated Texts Automatically,F
+Dr Marcus Tomalin,F-mt126-2,LLMs for Legal Judgment Prediction: Generating Explanations,F
+Prof. Graham Treece,F-gmt11-1,When does bone have a cortical layer?,F
+Prof. Graham Treece,F-gmt11-2,Efficient shadow-mapping for omnidirectional lights,F
+Prof. Graham Treece,F-gmt11-3,Automatic transfer functions for volume visualisation,F
+Prof. Rich Turner,F-ret26-1,Neural Processes for Time-Series and Spatio-Temporal Forecasting,F
+Prof. Ramji Venkataramanan,F-rv285-1,Lossy Compression via Diffusion Sampling,F
+Prof. Ramji Venkataramanan,F-rv285-2,Bayesian regression for high-dimensional rhythmic data,F
+Prof. Ramji Venkataramanan,F-rv285-3,Learning Cellular Trajectories through Vector Field Modeling and End-to-End Training,F
+Prof. Ramji Venkataramanan,F-rv285-4,Measurements in 6G wireless communications systems,F
+Prof. Tim Wilkinson,B-tdw13-1,Holographic projection for visual illusions,B
+Prof. Tim Wilkinson,B-tdw13-2,The Internet of equine - sensing gait on a horse and rider,B
+Prof. Tim Wilkinson,B-tdw13-3,Pixel-less displays,B
+Prof. Tim Wilkinson,B-tdw13-4,Wide area battery network,B
+Dr Elliott Wu,F-sw2181-1,Reconstructing 3D Object Motion from Videos,F
+Dr Elliott Wu,F-sw2181-2,Distilling 3D Part-level Dynamics from Video Generation Models,F

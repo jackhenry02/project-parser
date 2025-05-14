@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import csv
 
 # 1. Load the HTML
-with open('data.html', 'r', encoding='utf-8') as f:
+with open('data2.html', 'r', encoding='utf-8') as f:
     soup = BeautifulSoup(f, 'html.parser')
 
 rows = []
@@ -41,9 +41,9 @@ for panel in soup.find_all('mat-expansion-panel'):
         })
 
 # 4. Write out the CSV
-with open('projects.csv', 'w', newline='', encoding='utf-8') as csvfile:
+with open('projects2.csv', 'w', newline='', encoding='utf-8') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=['PI', 'Code', 'Name', 'Division'])
     writer.writeheader()
     writer.writerows(rows)
 
-print(f"Wrote {len(rows)} projects to projects.csv")
+print(f"Wrote {len(rows)} projects to projects2.csv")
